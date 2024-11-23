@@ -1,7 +1,0 @@
-{
-  "/api/users/logout/route": "app/api/users/logout/route.js",
-  "/page": "app/page.js",
-  "/profile/page": "app/profile/page.js",
-  "/login/page": "app/login/page.js",
-  "/signup/page": "app/signup/page.js"
-}
